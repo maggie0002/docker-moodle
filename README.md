@@ -2,7 +2,7 @@
 
 ## Moodle
 
-This repo was used as a test environment for dockerising Moodle for using on the Learner's Block (https://learnersblock.org) App Store. It is a working build that can be run locally using docker-compose. 
+This repo was used as a test environment for dockerising Moodle (http://moodle.com) for using on the Learner's Block (https://learnersblock.org) App Store. It is a working build that can be run locally using docker-compose. 
 
 Moodle setup is not easy to work with so have left this repo here as an example for others.
 
